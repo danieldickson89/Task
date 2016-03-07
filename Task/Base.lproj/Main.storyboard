@@ -34,6 +34,7 @@
                                                 <constraint firstAttribute="width" constant="30" id="Kek-4Y-xKM"/>
                                                 <constraint firstAttribute="width" secondItem="Ejk-wm-qMA" secondAttribute="height" multiplier="1:1" id="b2y-pK-W5q"/>
                                             </constraints>
+                                            <color key="tintColor" red="0.33731000880000001" green="1" blue="0.4138532472" alpha="1" colorSpace="calibratedRGB"/>
                                             <state key="normal" backgroundImage="incomplete"/>
                                             <connections>
                                                 <action selector="checkBoxButtonTapped:" destination="0ta-Jz-0BY" eventType="touchUpInside" id="4fV-lS-obz"/>
